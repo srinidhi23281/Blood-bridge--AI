@@ -2,7 +2,7 @@
 
 ## Team
 Omni_BioTech_15
-Members: G. Akshaya & k.srinidhi
+Members: G. Akshaya & K.srinidhi
 
 ## Problem
 Blood banks face shortages and wastage due to no real-time coordination.
